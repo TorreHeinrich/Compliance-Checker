@@ -1,0 +1,6 @@
+{
+  "name": "EU AI Act & DSGVO Compliance-Checker für KMU",
+  "description": "Interaktiver Compliance-Check nach Verordnung (EU) 2024/1689 & DSGVO für kleine und mittlere Unternehmen mit dynamischer Risikoauswertung und Experten-Audit durch TE DIGITAL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
